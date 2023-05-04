@@ -1,0 +1,30 @@
+b1. what is software?
+-software is set of instruction which perform specific task.
+ 
+b2. types of software?
+-three vtypes of software.
+ 1.application
+ 2.programming
+ 3.middleware
+
+b3. what is software development methodology?
+-1.requirement
+ 2.designing
+ 3.deployment 
+ 4.analysis
+ 5.devlopment
+ 6.testing tester
+ 7.maintenance
+
+
+b4.what is design pattern?
+- enterprise patterns
+  architectural patterns
+  architectural system
+  architectural principle
+  design patterns
+  design principle 
+  object-oriented programming
+  programming paradigms
+  clean code
+ 

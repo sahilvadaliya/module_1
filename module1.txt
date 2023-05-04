@@ -1,0 +1,54 @@
+b1.what is software?
+
+    -software is set of instruction on which perform specific task.
+
+b2.types of software?
+ 
+    - three type of software.
+      1.application software
+      2.programming software
+      3.midalware software
+
+b3.what is software devlopment methodology?
+
+    -project planning
+     requirwement 
+     analysis
+     desing
+     coding
+     testing
+     deployment
+
+b4.what is desing pattern?
+    
+   -structural
+   -creational
+   -behavioral
+
+Intermediate
+
+1.What is the difference between Applicationsoftware and system software? 
+
+-application software is used by user to perform specific task.
+-system software is used for operating computer hardwaer.
+
+2 Explain the SDLC Each face Process..
+
+-analysis
+-design
+-development
+-testing
+-deployment
+-maintenance
+
+3.Create the DFD,FlowChart of Login Process of facebook.com
+
+
+
+
+
+
+
+
+
+
